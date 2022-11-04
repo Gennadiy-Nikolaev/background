@@ -100,7 +100,7 @@ body {
   box-shadow: 0 0 10px #000;
 }*/
 .wrapper {
-  background-color: #e8e8e8;
+  background: #e8e8e8 url(../img/lines.jpg) 50% 100px no-repeat;
 }
 .content {
   padding: 125px 0;
@@ -159,7 +159,6 @@ body {
 }
 
 .end-info {
-  margin-bottom: 59px;
 }
 .end-list {
   margin-bottom: 59px;
